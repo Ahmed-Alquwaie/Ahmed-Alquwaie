@@ -20,25 +20,15 @@ CS & AI Student
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### 1. Social Media Data Analysis (Data Science)
-Data analysis project on datasets from 4 social media platforms to extract insights using Python.
-
----
-
-### 2. Vigenère Cipher Decryption (Cyber Security)
-Python tool to decrypt messages encrypted using the Vigenère cipher with a fixed key.
-
----
-
-### 3. Spam Message Classification (Machine Learning / AI)
-Machine learning model to classify messages as spam or not spam using Python and Scikit-learn.
-
----
-
-### 4. Water Level Indicator System (Hardware / Logic Design)
-Hardware project using breadboard components with circuit simulation in Proteus and logic design concepts.
+| Project | Tech Stack |
+|---------|------------|
+| 🚗 [Vehicle Speed Estimation using YOLOv8](https://github.com/Ahmed-Alquwaie/Vehicle-Speed-Estimation) | Python • YOLOv8 • OpenCV • Computer Vision • CustomTkinter |
+| 🤖 [Spam Message Classification](https://github.com/Ahmed-Alquwaie/spam-message-classification) | Python • Pandas • Scikit-learn • TF-IDF • Logistic Regression |
+| 📊 [Social Media Data Analysis](https://github.com/Ahmed-Alquwaie/social-media-performance-analysis) | Python • Pandas • NumPy • Matplotlib • Seaborn |
+| 🔐 [Vigenère Cipher Cracker](https://github.com/Ahmed-Alquwaie/vigenere-cipher-cracker) | Python • Cryptography • Frequency Analysis • Brute-force Key Search |
+| 💧 [Water Level Indicator System](https://github.com/Ahmed-Alquwaie/water-level-indicator-system) | Proteus • Digital Logic |
 
 ---
 
